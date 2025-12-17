@@ -1,8 +1,8 @@
 # AI-ML-Assignment-7-LLM-FineTuning-LoRA
 
-# Written by Edgar  
-# Course: Generative AI / Machine Learning  
-# Assignment: Transfer Learning with PEFT (LoRA)
+## Written by Edgar  
+## Course: Generative AI / Machine Learning  
+## Assignment: Transfer Learning with PEFT (LoRA)
 
 # Project Overview
 This project demonstrates how to fine-tune a pre-trained Large Language Model (LLM) for a downstream text classification task using Parameter-Efficient Fine-Tuning (PEFT).  
