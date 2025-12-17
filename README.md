@@ -10,8 +10,8 @@ Instead of updating all model weights, LoRA (Low-Rank Adaptation) is used to tra
 
 
 # Task Description
-# Task: Sentiment Analysis (Positive vs Negative)
-# Dataset:** IMDB Movie Reviews (Hugging Face Datasets)
+## Task: Sentiment Analysis (Positive vs Negative)
+## Dataset: IMDB Movie Reviews (Hugging Face Datasets)
  Base Model: distilbert-base-uncased
 - Frameworks: Hugging Face Transformers, PEFT, PyTorch
 
